@@ -1,0 +1,18 @@
+{
+  "name": "Articles",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.8",
+    "react-native-gesture-handler": "^1.2.1",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-square-grid": "^1.0.5",
+    "react-native-super-grid": "^3.0.4",
+    "react-native-webview": "^5.12.0",
+    "react-navigation": "^3.11.0"
+  }
+}

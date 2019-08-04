@@ -1,0 +1,94 @@
+[
+    {
+        "title":"You Asked: Is Listening to Music Good For Your Health?",
+        "source":"Time",
+        "link": "https://time.com/5254381/listening-to-music-health-benefits/",
+        "weights": [5,2,0,0,0,0,0,0,4,0,0,0]
+    },
+    {
+        "title":"Is Music the Key to Success?",
+        "source":"The New York Times",
+        "link":"https://www.nytimes.com/2013/10/13/opinion/sunday/is-music-the-key-to-success.html",
+        "weights": [5,0,0,4,0,4,0,0,0,0,0,0]
+    },
+    {
+        "title": "The White House is giving NASA another $1.6 billion to go to the moon. It won't be enough.",
+        "source": "Popular Science",
+        "link": "https://www.popsci.com/nasa-moon-mission-funding-billion",
+        "weights": [0,5,1,0,3,0,0,4,0,0,0,0]
+    },
+    {
+        "title": "NASA Says it Has Scheduled the First All-Female Spacewalk",
+        "source": "Time Magazine",
+        "link": "http://time.com/5546676/nasa-first-all-female-spacewalk/",
+        "weights": [0,5,1,0,1,0,0,0,0,0,0,0]
+    },
+    {
+        "title": "Data can now be stored inside the molecules that power our metabolism",
+        "source": "New Scientist",
+        "link": "https://www.newscientist.com/article/2208439-data-can-now-be-stored-inside-the-molecules-that-power-our-metabolism/",
+        "weights": [0,5,5,0,2,0,0,0,0,0,0,0]
+    },
+    {
+        "title": "Why Blue Fireworks Are So Rare",
+        "source": "Live Science",
+        "link": "https://www.livescience.com/65860-why-blue-fireworks-are-rare.html",
+        "weights": [0,5,5,0,0,3,0,0,0,0,0,2]
+    },
+    {
+        "title": "Harvard says fighting climate change is a top priority. But it still won’t divest from fossil fuels.",
+        "source": "The Washington Post",
+        "link": "https://www.washingtonpost.com/climate-environment/harvard-says-fighting-climate-change-is-a-top-priority-but-it-still-wont-divest-from-fossil-fuels/2019/07/02/b6547684-9d03-11e9-9ed4-c9089972ad5a_story.html?utm_term=.b496027788b5",
+        "weights": [0,4,1,5,1,0,0,3,0,0,0,0]
+    },
+    {
+        "title": "Health Tech Startup uBiome Founders Resign, Interim CEO Leaves As Company Faces Multiple Investigations",
+        "source": "Forbes",
+        "link": "https://www.forbes.com/sites/alexknapp/2019/07/01/health-tech-startup-ubiome-founders-resign-interim-ceo-leaves-as-company-faces-multiple-investigations/#62d2e1cf459f",
+        "weights": [0,1,5,5,0,0,0,0,3,0,0,0]
+    },
+    {
+        "title": "Iran nuclear deal: Macron and Rouhani agree to look at conditions for talks",
+        "source": "BBC News",
+        "link": "https://www.bbc.com/news/world-middle-east-48897621",
+        "weights": [0,3,0,0,5,0,0,5,0,0,0,0]
+    },
+    {
+        "title": "'Avengers: Endgame' Earns an Astronomical $350 Million at the Weekend Box Office, $1.2 Billion Globally -- the Biggest Opening in Movie History",
+        "source": "Entrepreneur",
+        "link": "https://www.entrepreneur.com/article/332970",
+        "weights": [0,0,0,3,1,5,0,0,0,0,0,0]
+    },
+    {
+        "title": "New York's historic Paris Theatre under threat after more than 70 years in business",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2019/jul/07/paris-theatre-new-york-city-closing-rumors",
+        "weights": [0,0,0,4,2,5,0,0,0,0,0,0]
+    },
+    {
+        "title": "No food is healthy. Not even kale.",
+        "source": "The Washington Post",
+        "link": "https://www.washingtonpost.com/lifestyle/food/no-food-is-healthy-not-even-kale/2016/01/15/4a5c2d24-ba52-11e5-829c-26ffb874a18d_story.html?utm_term=.110704e2c748",
+        "weights": [0,2,0,0,0,0,5,0,5,0,0,0]
+    },
+    {
+        "title": "U.S. Women Turn Up the Noise in Pursuit of World Cup Glory",
+        "source": "The Wall Street Journal",
+        "link": "https://www.wsj.com/articles/u-s-women-turn-up-the-noise-in-pursuit-of-world-cup-glory-11562317261",
+        "weights": [0,0,0,0,3,5,0,0,0,5,0,0]
+    },
+    {
+        "title": "Travel makes us happy: Here's why",
+        "source": "CNN",
+        "link": "https://www.cnn.com/travel/article/travel-makes-us-happy/index.html",
+        "weights": [0,0,0,0,0,3,0,0,2,0,5,0]
+    },
+    {
+        "title": "What Is Art For?",
+        "source": "The City Journal",
+        "link": "https://www.city-journal.org/html/what-art-13616.html",
+        "weights": [0,0,0,0,0,3,0,0,4,0,0,5]
+    }
+
+
+]
